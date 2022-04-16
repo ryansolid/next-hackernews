@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next Hackernews
+
+You can see the live demo [here](https://next-hackernews-olive.vercel.app/)
 
 ## Getting Started
 
